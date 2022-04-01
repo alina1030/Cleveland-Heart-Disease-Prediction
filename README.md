@@ -7,11 +7,17 @@ To predict wether a person is having heart disease or not based on input feature
 **METHODOLOGY**
 
 1.Read the dataset
+
 2.Preprocess the dataset(data cleaning)
+
 3.Assign input(x) and output(y) values for training and testing
+
 4.Standardize input values
+
 5.Split the dataset into training & testing dataset
+
 6.Use Classification models to fit and predict
+
 7.Evaluation of metrics
 
 **KEY FEATURES OF THE PROJECT**
