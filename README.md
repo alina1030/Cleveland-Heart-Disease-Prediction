@@ -25,6 +25,7 @@ To predict wether a person is having heart disease or not based on input feature
 **1. PCA and LDA for dimensionality reduction**
 
 **PCA**
+
 Principal Component Analysis is an unsupervised learning algorithm that is used for the dimensionality reduction in machine learning. It is a statistical process that converts the observations of correlated features into a set of linearly uncorrelated features with the help of orthogonal transformation. These new transformed features are called the Principal Components.
 
 PCA generally tries to find the lower-dimensional surface to project the high-dimensional data.
